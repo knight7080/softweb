@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date:
+## Date: 31/10/23
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -243,9 +243,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![image](https://github.com/knight7080/softweb/assets/88542035/a7966c4b-02d3-4201-9752-e95d99578855)
+![image](https://github.com/knight7080/softweb/assets/88542035/4af88ece-b0dd-4047-a53f-f802d8e84d3e)
+![image](https://github.com/knight7080/softweb/assets/88542035/9e1ec98b-04e2-458d-8cf3-08e5f282f701)
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
